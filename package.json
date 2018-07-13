@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "node-notifier": "^5.2.1",
-    "serialport": "^6.2.1"
+    "serialport": "^4.0.7"
   }
 }
