@@ -11,6 +11,3 @@ sensor.on("fixed", () => {
     notifier(false);
     deviceAlarm(false);
 });
-
-sensor.emit("alarm");
-sensor.emit("fixed");
