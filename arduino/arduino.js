@@ -55,3 +55,5 @@ function updateState(newState) {
     state = newState;
     flushStateToArduino();
 }
+
+module.exports = updateState;
